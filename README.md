@@ -40,8 +40,3 @@ The project follows a clean **REST API → DataFrame → SQL** workflow — appl
 * Writing **idempotent database operations** (no duplicate rows) using SQL UPSERT
 * Strengthening understanding of **API integration**, **data cleaning**, and **database connectivity** in Python
 
----
-
-
-
-Would you like me to make this version a bit more **professional and résumé-ready** (e.g., with a short "Business Use Case" and "Future Enhancements" section)? That can make it stronger for portfolio presentation.
